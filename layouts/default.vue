@@ -8,8 +8,11 @@
         <li>
           <NuxtLink to="/about">About Page</NuxtLink>
         </li>
-            <li>
-          <NuxtLink to="/about">Mountains</NuxtLink>
+        <li>
+          <NuxtLink to="/mountains">Mountains</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/_slug">Rivers</NuxtLink>
         </li>
       </ul>
     </nav>
